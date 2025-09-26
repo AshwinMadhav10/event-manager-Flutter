@@ -7,21 +7,6 @@
 
 A comprehensive, cross-platform Flutter application for managing events, venues, and equipment bookings. Built with Firebase for real-time data synchronization, authentication, and cloud storage. Features role-based access for users and administrators, automatic conflict prevention, and background processing for seamless event management.
 
-## 📋 Table of Contents
-
-- [✨ Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [🏗️ Architecture](#️-architecture)
-- [🚀 Installation](#-installation)
-- [🔧 Firebase Setup](#-firebase-setup)
-- [📖 Usage](#-usage)
-- [🗄️ Data Structure](#️-data-structure)
-- [🔌 API & Services](#-api--services)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
-- [🙏 Acknowledgments](#-acknowledgments)
-
 ## ✨ Features
 
 ### 👤 For Users
