@@ -264,3 +264,5 @@ We welcome contributions! Please follow these steps:
 **Made with ❤️ using Flutter & Firebase**
 
 *For questions or support, please open an issue on GitHub.*
+
+## Developed By Manikandan M
