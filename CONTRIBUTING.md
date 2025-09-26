@@ -5,7 +5,7 @@
 *Here are some ways you can contribute:*
 - [Report an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
 - [Suggest a feature](CONTRIBUTING.md)
-- Improve the documentation
+- [Improve the documentation](README.md)
 - [Contribute code](CODE_OF_CONDUCT.md)
 
 ## Reporting Issues
