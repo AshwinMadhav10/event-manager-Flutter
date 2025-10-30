@@ -265,4 +265,4 @@ We welcome contributions! Please follow these steps:
 
 *For questions or support, please open an issue on GitHub.*
 
-## Developed By Manikandan M
+
